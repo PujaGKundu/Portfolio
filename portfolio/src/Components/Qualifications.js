@@ -1,5 +1,3 @@
-import "./qualifications.css";
-
 const Qualification = () => {
   return (
     <div>

@@ -1,4 +1,3 @@
-import "./footer.css";
 import { BsMouse } from "react-icons/bs";
 import { TiSocialGithub } from "react-icons/ti";
 

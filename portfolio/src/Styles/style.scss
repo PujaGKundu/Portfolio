@@ -76,3 +76,11 @@ body::after {
     width: var(--phone-width);
   }
 }
+
+@import "header";
+@import "button";
+@import "home";
+@import "about";
+@import "qualifications";
+@import "contact";
+@import "footer";

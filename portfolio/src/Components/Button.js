@@ -1,5 +1,3 @@
-import "./button.css";
-
 export default function Buttons() {
   return (
     <>

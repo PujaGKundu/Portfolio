@@ -1,6 +1,5 @@
-import "./home.css";
-import Buttons from "../button/button";
-import img from "../props/img2.jpg";
+import Buttons from "./Button";
+import img from "./props/img2.jpg";
 import { BsMouse } from "react-icons/bs";
 
 export default function Home() {

@@ -1,5 +1,4 @@
-import "./about.css";
-import Qualification from "../qualifications/qualifications";
+import Qualification from "./Qualifications";
 
 export default function About() {
   return (
