@@ -28,8 +28,8 @@ export default function Home() {
             and be a pleasant and friendly addition to your team.
           </p>
           <p>
-            I am therefore currently looking for a job or an internship as a
-            full stack developer or a front-end developer.
+            I am therefore currently looking for a job as a full stack developer
+            or a front-end developer.
           </p>
         </h2>
         <Buttons />

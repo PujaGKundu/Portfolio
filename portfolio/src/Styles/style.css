@@ -301,6 +301,7 @@ body::after {
   opacity: 0;
   -webkit-animation: fade-in 1s ease 1 0.5s forwards;
           animation: fade-in 1s ease 1 0.5s forwards;
+  background-position: center;
 }
 
 @keyframes fade-in {
