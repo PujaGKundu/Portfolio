@@ -1,4 +1,3 @@
-import Buttons from "./Button";
 import img from "./props/img2.jpg";
 import { BsMouse } from "react-icons/bs";
 
@@ -28,11 +27,9 @@ export default function Home() {
             and be a pleasant and friendly addition to your team.
           </p>
           <p>
-            I am therefore currently looking for a job as a full stack developer
-            or a front-end developer.
+            I am therefore currently looking for a job as a front-end developer.
           </p>
         </h2>
-        <Buttons />
       </div>
     </>
   );

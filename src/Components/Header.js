@@ -7,7 +7,7 @@ export default function Header() {
             I <span>'</span>m
           </p>
           Puja
-          <h2>Full Stack Developer</h2>
+          <h2>Front End Developer</h2>
         </h3>
       </div>
     </>
