@@ -2,5 +2,5 @@
 
 ## Live Site:
 
-ttps://pujakundu.portfolio.netlify.app/
+https://pujakundu.portfolio.netlify.app/
 
